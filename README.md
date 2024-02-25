@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 
+
+I'm a student programmer and game developer (well, I will be!). I'm using the Godot Game Engine for development, using primarily C#, though I also use GDScript on occasion.
+
+I want to learn `c++` someday... 
+
+I also work on other non-programming related things. I'll probably show them here with time.
 
 <!--
 **9thAzure/9thAzure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
