@@ -1,4 +1,4 @@
-This is a copy of the [license](addons/complex_shape_creation/LICENSE.txt) found in the addon's folder.
+This is a copy of the license found in the addon's folder.
 ```
 MIT License
 
