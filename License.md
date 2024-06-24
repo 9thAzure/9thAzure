@@ -1,4 +1,3 @@
-This is a copy of the license found in the addon's folder.
 ```
 MIT License
 
